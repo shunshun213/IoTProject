@@ -1,0 +1,6 @@
+c
+c++
+verilog
+python
+r
+golang
